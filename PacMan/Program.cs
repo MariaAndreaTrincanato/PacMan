@@ -28,16 +28,15 @@ namespace PacMan
 
 			// 2. Init game
 			var pacMan = new PacManPawn(_pacManStartLives, _pacManStartPoints);
+			GameService.InitializeGameStatus();
 
 			// 3. Handle template content
-			List<string> steps = content.Split(',').ToList();
+			string[] steps = content.Split(',');
 			foreach(var step in steps)
 			{
 				var (scoredPoints, isLifeLost) = GameService.HandleStep(step);
 
 				pacMan.AddPoints(scoredPoints);
-
-				//Console.WriteLine($"STEP: {step} --> points to add {scoredPoints}, remove life?: {isLifeLost}");
 
 				if (isLifeLost)
 				{
@@ -47,11 +46,8 @@ namespace PacMan
 						break;
 					}
 				}
-
-				//Console.WriteLine($"PACMAN POINTS: {pacMan.Points}, PACMAN LIVES: {pacMan.Lives}\n\n");
 			}
 
-			//Console.Write("\n\n");
 			Console.WriteLine($"Game over! Total points {pacMan.Points}, total lives {pacMan.Lives}");
 		}
 	}
