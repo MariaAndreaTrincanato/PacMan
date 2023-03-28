@@ -1,0 +1,16 @@
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\PacMan.exe
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\Templates\beanTech-seq.txt
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\PacMan.deps.json
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\PacMan.runtimeconfig.json
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\PacMan.dll
+D:\Repos\beanTech\PacMan\PacMan\bin\Debug\net6.0\PacMan.pdb
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.csproj.AssemblyReference.cache
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.AssemblyInfoInputs.cache
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.AssemblyInfo.cs
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.csproj.CoreCompileInputs.cache
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.dll
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\refint\PacMan.dll
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.pdb
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\PacMan.genruntimeconfig.cache
+D:\Repos\beanTech\PacMan\PacMan\obj\Debug\net6.0\ref\PacMan.dll
